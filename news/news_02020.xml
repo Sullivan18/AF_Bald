@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-08" id="root" itemid="56869" xml:lang="pt">
+<title></title>
+<headline> Índice PSI20 cai 0,85 pct para 8.279,70 pontos. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 8 Ago (Reuter) - O índice PSI20 caiu 0,85 pct ou 70,98 pontos para 8.279,70. </p>
+<p> - Lisboa Editorial, 351.1.3113121. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="AcZQawyWIJ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="KozyErkBeM">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="KoBBgEChmD">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="favzushMQh">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="emrtwsSLCf">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-08"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

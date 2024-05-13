@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-03" id="root" itemid="49479" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE PSI20 SOBE 16,83 PONTOS PARA 4.771,50. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 3 Out (Reuter) - O índice PSI20 subiu 16,83 pontos para 4.771,50. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="WJZWSBaUKT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-03"></editdetail></code>
+<code code="ZvIGLhnlJI">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-03"></editdetail></code>
+<code code="WPjAIvjOMu">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="qwVvuuVZuz">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-03"></editdetail></code>
+<code code="OVpBQUEcmD">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-03"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

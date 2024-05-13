@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-30" id="root" itemid="49363" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE BVL30 DESCE 2,88 PONTOS PARA 1.985,10. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 30 Set (Reuter) - O índice BVL30 desceu 2,88 pontos para 1.985,10. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="NNDbYyfuLf">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="mviGepPWbY">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="LxDpWTPqYh">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="bHMIVpGVte">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code>
+<code code="cFlrjpOqxA">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-30"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

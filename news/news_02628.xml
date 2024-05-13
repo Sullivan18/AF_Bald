@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-12" id="root" itemid="53241" xml:lang="pt">
+<title></title>
+<headline> Resumo transacções no mercado Contínuo. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 12 Mar (Reuter) - Transacções no Contínuo (números </p>
+<p> da sessão anterior entre parentesis): (MC=milhões de contos). </p>
+<p>         Quantidade     Valor </p>
+<p> Mercado Contínuo Acções 2.330.616(2.330.616) 7,839 MC( 7,839 MC) </p>
+<p>        OT     1.199.458(1.199.458)13,134 MC(13,134 MC) Futuros OT-10     2.340(    2.028)25,160 MC(21,828 MC) Futuros PSI20     1.198(    2.338) 0,746 MC( 1,420 MC) Índices  Oficial BVL (.BVLG)     1.402,68    - 0,31 pct     BVL30  (.BVL30)    2.634,88    - 0,31 pct     PSI-20 (.PSI20)    6.227,88    - 0,35 pct     ORF(TRM 6,4315 vs 6,6063 pct)   111,36    - 0,51 pct     FPI (Fincor Privatisation)    1.281,07    - 0,46 pct     ----Lisboa Editorial,1.1.3113121. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="RlstyOaVGA">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-12"></editdetail></code>
+<code code="UUSJQxoEew">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-12"></editdetail></code>
+<code code="twLzQWNoPN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-12"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="BtPuDZNqCz">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-12"></editdetail></code>
+<code code="CTLVFavtiq">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-12"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-12"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-08-30" id="root" itemid="48565" xml:lang="pt">
+<title></title>
+<headline> RESUMO DAS TRANSACÇÕES NO MERCADO CONTÍNUO. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 30 Ago (Reuter) - Transacções no Contínuo (números </p>
+<p> da sessão anterior entre parentesis): (MC=milhões de contos). </p>
+<p>         Quantidade     Valor </p>
+<p> Mercado Contínuo Acções 1.168.651(1.628.770) 2,920 MC( 4,074 MC) </p>
+<p>        OT  359.212(  437.953) 3,776 MC( 3,765 MC) Futuros OT-10       248( 483) 2,373 MC( 4,622 MC) Futuros PSI20       253( 680) 0,120 MC( 0,323 MC) Índices  Oficial BVL      1.063,66    - 0,17 pct     BVL30      1.971,10    - 0,08 pct     PSI-20     4.709,51    - 0,12 pct     ORF(TRM 7,8844 vs 7,9504 pct)   106,83    + 0,19 pct     FPI (Fincor Privatisation)    1.132,47    - 0,37 pct     ----Lisboa Editorial, 351.1.3113121. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DBXvMCwNcQ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-30"></editdetail></code>
+<code code="FZjphPKKCl">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-30"></editdetail></code>
+<code code="ebUBgHsMmZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="QnORFgfJwF">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-30"></editdetail></code>
+<code code="xlAmMvLTAj">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-30"></editdetail></code>
+<code code="DoBZIADbyk">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-08-30"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

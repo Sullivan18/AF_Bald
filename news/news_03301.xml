@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-03" id="root" itemid="50920" xml:lang="pt">
+<title></title>
+<headline> MARCO A 100,830 ESCUDOS. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     A cotação indicativa do Banco de Portugal correcta para o </p>
+<p> marco-escudo hoje é 100,830 e não 101,830, como por lapso foi </p>
+<p> escrito. </p>
+<p>     Segue versão corrigida. </p>
+<p>     LISBOA, 3 Dez (Reuter) - Cotações oficiais indicativas do </p>
+<p> Banco de Portugal (BP). Entre parêntesis sessão anterior. </p>
+<p> USD 157,658..........(155,082)   NLG 89,851..........(90,105) </p>
+<p> DEM 100,830..........(101,083)   BEF 4,8909..........(4,9048) </p>
+<p> FRF 29,780............(29,749)   CHF 119,002........(119,399) </p>
+<p> GBP 263,298..........(260,795)   JPY 1,3831..........(1,3638) </p>
+<p> ESP 1,1981............(1,1983)   SEK 23,211..........(23,160) </p>
+<p> XEU 195,278..........(195,110)   NOK 24,247..........(24,214) </p>
+<p> ITL 0,10273..........(0,10242)   DKK 26,350..........(26,373) </p>
+<p> IEP 262,743..........(261,077)   FIM 33,768..........(33,694) </p>
+<p> ATS 14,329............(14,363)   Índice 95,48.........(95,58). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="lyCYsTELsg">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="mYXeFnjsTW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="feFvSQqbFk">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="DJiSTDSYnN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="tPUhhwHxLV">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code>
+<code code="eTsDyxZAGM">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-03"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-03"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-01-22" id="root" itemid="51986" xml:lang="pt">
+<title></title>
+<headline> COTAÇÕES INDICATIVAS DO BANCO PORTUGAL - (PTEFIX=). </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 22 Jan (Reuter) - Cotações oficiais indicativas do </p>
+<p> Banco de Portugal (BP). Entre parêntesis sessão anterior. </p>
+<p> USD 163,543..........(161,737)   NLG 88,682..........(88,682) </p>
+<p> DEM 99,612............(99,635)   BEF 4,8318..........(4,8330) </p>
+<p> FRF 29,538............(29,533)   CHF 114,156........(114,352) </p>
+<p> GBP 270,775..........(268,983)   JPY 1,3755..........(1,3718) </p>
+<p> ESP 1,1915............(1,1922)   SEK 22,899..........(22,831) </p>
+<p> XEU 194,063..........(193,939)   NOK 25,034..........(24,990) </p>
+<p> ITL 0,10260..........(0,10256)   DKK 26,136..........(26,121) </p>
+<p> IEP 264,132..........(262,318)   FIM 34,044..........(33,878) </p>
+<p> ATS 14,160............(14,163)   Índice 95,77.........(95,85). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="Nbxzhoximp">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-22"></editdetail></code>
+<code code="TXHOtYZDJF">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-22"></editdetail></code>
+<code code="plZgjkFBwC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-22"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="mOjwvkwdRC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-22"></editdetail></code>
+<code code="UEJviBKbJf">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-22"></editdetail></code>
+<code code="ztsymabOrg">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-01-22"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-01-22"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

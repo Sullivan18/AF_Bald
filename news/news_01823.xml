@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-13" id="root" itemid="54622" xml:lang="pt">
+<title></title>
+<headline> INE diz inflação Abril divulgada em breve. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA 13 Mai (Reuter) - O Instituto Nacional de Estatística anunciou que divulga os dados da inflação de Abril dentro de minutos. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="vehTkZRNpL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="frEHaqkamM">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="EXgWluJbpq">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="sxHRbKKepC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="EbcGZbPEUJ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code>
+<code code="LXfuEFQizc">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-13"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-13"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

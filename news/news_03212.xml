@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-22" id="root" itemid="50738" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE PSI20 DESCE 15,16 PONTOS PARA 4.941,09. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 22 Nov (Reuter) - O índice PSI20 desceu 15,16 pontos para 4.941,09. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="yStjMhsqZw">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code>
+<code code="JrErWUZEgC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code>
+<code code="lzDvoKlndH">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="bYobFObfUq">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code>
+<code code="dNClHxyXwg">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-22"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-22"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
