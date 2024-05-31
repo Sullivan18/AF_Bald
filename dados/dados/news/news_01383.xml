@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-07-10" id="root" itemid="56105" xml:lang="pt">
+<title></title>
+<headline> Índice PSI20 cai 2,22 pct para 7.919,45 pontos. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 10 Jul (Reuter) - O índice PSI20 está a cair 2,22 pct ou 179,52 pontos para 7.919,45. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="liSmtoLzcn">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-10"></editdetail></code>
+<code code="rACUpQgUIP">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-10"></editdetail></code>
+<code code="DxfWROHCBY">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-10"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="AoBOqYfvJT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-10"></editdetail></code>
+<code code="ZIhuqNdZcQ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-07-10"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-07-10"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

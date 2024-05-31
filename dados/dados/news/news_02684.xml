@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-03-31" id="root" itemid="53623" xml:lang="pt">
+<title></title>
+<headline> Monetário fecha taxas estáveis e poucos interesses. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> O mercado monetário do escudo fechou com as taxas estabilizadas aos níveis da abertura, numa sessão apática, afectada pela falta da grande maioria dos mercados europeus, ainda devido à Páscoa. Algum movimento nos prazos até aos três meses, mas nada a partir desta maturidade. </p>
+<p> - Lisboa Editorial, 351-1-311.31.26 </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="pxKGklHeog">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-31"></editdetail></code>
+<code code="GNBbITuxbw">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-31"></editdetail></code>
+<code code="qjgMefSBRG">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-31"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="IMqziOhWnj">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-31"></editdetail></code>
+<code code="huKLsjwZtQ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-03-31"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-03-31"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

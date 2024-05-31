@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-24" id="root" itemid="49180" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE PSI20 CAI 0,01 PONTOS PARA 4.752,96. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 24 Set (Reuter) - O índice PSI20 desceu 0,01 pontos para 4.752,96. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="IVicGANWqH">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="NPIcmrbSMX">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="HNNXIYoDil">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="oZNrsIqxlz">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code>
+<code code="zglJPxJsBP">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-24"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-24"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

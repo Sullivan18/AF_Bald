@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-25" id="root" itemid="50076" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE PSI20 DESCE 0,85 PONTOS PARA 4.764,08. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 25 Out (Reuter) - O índice PSI20 desceu 0,85 pontos para 4.764,08. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="MRNHNrQMNl">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-25"></editdetail></code>
+<code code="WqIjUGUoiY">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-25"></editdetail></code>
+<code code="uSCJTeRwvN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-25"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="vTWTRMWlNF">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-25"></editdetail></code>
+<code code="LvjYqeJtuW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-25"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-25"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

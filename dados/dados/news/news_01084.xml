@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-05-30" id="root" itemid="55086" xml:lang="pt">
+<title></title>
+<headline> Índice PSI20 cai 0,62 pct para 6.649,08 pontos. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 30 Mai (Reuter) - O índice PSI20 cai 41,44 pontos ou 0,62 pct para 6.649,08 pontos. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="FWPsPvKbqm">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-30"></editdetail></code>
+<code code="YQdtvZXkby">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-30"></editdetail></code>
+<code code="xdFmNDNVbH">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-30"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="ocXnTZWxZl">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-30"></editdetail></code>
+<code code="HJPAsuNnBj">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-05-30"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-05-30"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

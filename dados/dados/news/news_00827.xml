@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-23" id="root" itemid="50004" xml:lang="pt">
+<title></title>
+<headline> RESUMO TRANSACÇÕES NO MERCADO CONTÍNUO - (PDNX). </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 23 Out (Reuter) - Transacções no Contínuo (números </p>
+<p> da sessão anterior entre parentesis): (MC=milhões de contos). </p>
+<p>         Quantidade     Valor </p>
+<p> Mercado Contínuo Acções 3.894.099(1.657.435) 6,048 MC( 3,715 MC) </p>
+<p>        OT     1.212.540(  362.023)12,861 MC( 3,668 MC) Futuros OT-10     1.182(    1.404)12,102 MC(14,369 MC) Futuros PSI20       216(    1.153) 0,103 MC( 0,555 MC) Índices  Oficial BVL (.BVLG)     1.082,27    + 0,03 pct     BVL30  (.BVL30)    1.999,38    + 0,21 pct     PSI-20 (.PSI20)    4.763,65    + 0,13 pct     ORF(TRM 7,2889 vs 7,1679 pct)   108,65    - 0,35 pct     FPI (Fincor Privatisation)    1.125,26    + 0,52 pct     ----Lisboa Editorial,1.1.31131211. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="bsglivntbm">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="wkquowAVTg">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="yUyduWtXRq">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="JaDPYqmBLj">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code>
+<code code="lhnjSTzFqv">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-23"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-23"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

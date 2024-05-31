@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-02" id="root" itemid="48584" xml:lang="pt">
+<title></title>
+<headline> RESUMO DAS TRANSACÇÕES NO MERCADO CONTÍNUO. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 2 Set (Reuter) - Transacções no Contínuo (números da </p>
+<p> sessão anterior entre parentesis): (MC=milhões de contos). </p>
+<p>         Quantidade     Valor </p>
+<p> Mercado Contínuo Acções   734.143(1.168.651) 1,292 MC( 2,920 MC) </p>
+<p>        OT  102.639(  359.212) 1,040 MC( 3,776 MC) Futuros OT-10   46( 248) 0,440 MC( 2,373 MC) Futuros PSI20       336( 253) 0,159 MC( 0,120 MC) Índices  Oficial BVL      1.066,01    + 0,22 pct     BVL30      1.975,73    + 0,23 pct     PSI-20     4.722,56    + 0,28 pct     ORF(TRM 7,9087 vs 7,8844 pct)   106,76    - 0,07 pct     FPI (Fincor Privatisation)    1.131,76    - 0,06 pct     ----Lisboa Editorial, 351.1.3113121. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="QTZwAdMtmb">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-02"></editdetail></code>
+<code code="nLCuErdbDt">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-02"></editdetail></code>
+<code code="ejDGWEeCfL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-02"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="iYCoBkVFRm">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-02"></editdetail></code>
+<code code="pOXSdfkwZt">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-02"></editdetail></code>
+<code code="KdsMnWYaRL">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-02"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-02"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

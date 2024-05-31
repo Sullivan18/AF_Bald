@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-27" id="root" itemid="49326" xml:lang="pt">
+<title></title>
+<headline> RESUMO TRANSACÇÕES NO MERCADO CONTÍNUO. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 27 Set (Reuter) - Transacções no Contínuo (números </p>
+<p> da sessão anterior entre parentesis): (MC=milhões de contos). </p>
+<p>         Quantidade     Valor </p>
+<p> Mercado Contínuo Acções 1.289.370(1.616.302) 3,116 MC( 3,150 MC) </p>
+<p>        OT  910.227(1.103.912)10,306 MC(12,061 MC) Futuros OT-10     1.424(    1.616)14,322 MC(16,148 MC) Futuros PSI20       709( 244) 0,340 MC( 0,118 MC) Índices  Oficial BVL      1.076,67    - 0,15 pct     BVL30      1.987,98    - 0,13 pct     PSI-20     4.744,23    - 0,13 pct     ORF(TRM 7,6629 vs 7,7225 pct)   107,50    + 0,17 pct     FPI (Fincor Privatisation)    1.122,14    - 0,06 pct     ----Lisboa Editorial,1.1.31131211. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="vKjPJZOemz">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code>
+<code code="vEAKzBGWyB">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code>
+<code code="wyxHBPurQr">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="mnZTWzRrAY">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code>
+<code code="KBiDHIIFDa">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-27"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

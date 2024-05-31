@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-02-24" id="root" itemid="52778" xml:lang="pt">
+<title></title>
+<headline> COTAÇÕES OFICIAIS INDICATIVAS DO BANCO DE PORTUGAL (BP) </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 24 Fev (Reuter) - . Entre parêntesis sessão anterior. </p>
+<p> USD 168,242..........(169,431)   NLG 89,336..........(89,415) </p>
+<p> DEM 100,425..........(100,445)   BEF 4,8653..........(4,8668) </p>
+<p> FRF 29,742............(29,732)   CHF 115,298........(114,978) </p>
+<p> GBP 274,009..........(274,507)   JPY 1,3761..........(1,3805) </p>
+<p> ESP 1,1867............(1,1867)   SEK 22,782..........(22,852) </p>
+<p> XEU 194,723..........(194,824)   NOK 25,201..........(25,174) </p>
+<p> ITL 0,10131..........(0,10168)   DKK 26,318..........(26,320) </p>
+<p> IEP 266,256..........(267,284)   FIM 33,548..........(33,650) </p>
+<p> ATS 14,269............(14,272)   Índice 95,40.........(95,34). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="KbJwOXaptW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-24"></editdetail></code>
+<code code="WeKmwJmdmu">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-24"></editdetail></code>
+<code code="XueuIuBcbB">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-24"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="uLhknJWdFC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-24"></editdetail></code>
+<code code="STbpZtDboi">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-24"></editdetail></code>
+<code code="UgjiaYudiN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-02-24"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-02-24"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

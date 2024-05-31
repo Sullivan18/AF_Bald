@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-18" id="root" itemid="49889" xml:lang="pt">
+<title></title>
+<headline> COTAÇÕES INDICATIVAS DO BANCO PORTUGAL - (PTEFIX=). </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 18 Out (Reuter) - Cotações oficiais indicativas do </p>
+<p> Banco de Portugal (BP). Entre parêntesis sessão anterior. </p>
+<p> USD 155,255..........(155,249)   NLG 89,790..........(89,882) </p>
+<p> DEM 100,730..........(100,857)   BEF 4,8899..........(4,8955) </p>
+<p> FRF 29,818............(29,807)   CHF 122,408........(122,428) </p>
+<p> GBP 246,672..........(246,509)   JPY 1,3812..........(1,3843) </p>
+<p> ESP 1,1969............(1,1975)   SEK 23,379..........(23,387) </p>
+<p> XEU 193,522..........(193,495)   NOK 23,765..........(23,781) </p>
+<p> ITL 0,10106..........(0,10089)   DKK 26,304..........(26,321) </p>
+<p> IEP 248,813..........(248,814)   FIM 33,661..........(33,777) </p>
+<p> ATS 14,317............(14,336)   Índice 96,61.........(96,59). </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="JuEnYbuutW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-18"></editdetail></code>
+<code code="KwSEHEutFy">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-18"></editdetail></code>
+<code code="PvpdTFkQqn">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-18"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="qPxeASXbLO">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-18"></editdetail></code>
+<code code="LkKbxkHlZa">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-18"></editdetail></code>
+<code code="GEVBiHxkpy">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-18"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-18"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

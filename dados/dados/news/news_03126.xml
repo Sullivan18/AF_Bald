@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-12-20" id="root" itemid="51405" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE PSI20 SOBE 12,1 PONTOS PARA 5.115,62. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 20 Dez (Reuter) - O índice PSI20 subiu 12,1 pontos para 5.115,62. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="zhuZZkOqil">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-20"></editdetail></code>
+<code code="krJNDSIHPH">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-20"></editdetail></code>
+<code code="yrceCtmkhV">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="kzhTULFlha">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-20"></editdetail></code>
+<code code="avRacixWHN">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-12-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-12-20"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

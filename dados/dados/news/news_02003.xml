@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-08" id="root" itemid="56860" xml:lang="pt">
+<title></title>
+<headline> Cotações indicativas. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p>     LISBOA, 8 Ago (Reuters) - Cotações oficiais indicativas do </p>
+<p> Banco de Portugal (BP). Entre parêntesis sessão anterior. </p>
+<p> USD 188,878..........(190,236)   NLG 89,850..........(89,842) </p>
+<p> DEM 101,237..........(101,227)   BEF 4,9023..........(4,9025) </p>
+<p> FRF 30,015............(30,005)   CHF 123,640........(124,312) </p>
+<p> GBP 296,878..........(303,630)   JPY 1,6067..........(1,6032) </p>
+<p> ESP 1,1998............(1,1982)   SEK 23,565..........(23,517) </p>
+<p> XEU 199,093..........(199,407)   NOK 24,608..........(24,623) </p>
+<p> ITL 0,10367..........(0,10346)   DKK 26,571..........(26,569) </p>
+<p> IEP 270,120..........(272,544)   FIM 33,842..........(33,977) </p>
+<p> ATS 14,387............(14,386)   Índice 93,41.........(93,15). </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="DJPKmJGMyF">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="VNqgzzvdNz">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="yhvwYqfkAx">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="UhtxExktnl">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="jbIyXvnaqX">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code>
+<code code="eddLvZMvYX">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-08"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-08"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

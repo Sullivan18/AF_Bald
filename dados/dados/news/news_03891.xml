@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-11-05" id="root" itemid="50305" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE PSI20 SOBE 28,59 PONTOS PARA 4.817,94. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 5 Nov (Reuter) - O índice PSI20 subiu 28,59 pontos, ou 0,60 pct, para 4.817,94. </p>
+<p> O máximo do ano foi obtido ao longo da sessão de hoje, com 4.818,03 pontos. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="BfXcPmQdFd">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-05"></editdetail></code>
+<code code="yEHNJhCudf">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-05"></editdetail></code>
+<code code="tZdBEcRjdP">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-05"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="OqQdlLMkhv">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-05"></editdetail></code>
+<code code="oWmPBQWphC">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-11-05"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-11-05"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

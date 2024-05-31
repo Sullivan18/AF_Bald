@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1997-08-18" id="root" itemid="57027" xml:lang="pt">
+<title></title>
+<headline> Negociação Bolsa Lisboa retomada. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 18 Ago (Reuter)-A negociação na Bolsa de Valores de Lisboa foi retomada, depois de ter estado interrompida devido a problemas técnicos, afirmaram dealers. </p>
+<p> A negociação esteve interrompida cerca de 30 minutos. </p>
+<p> Os índices, PSI20 (.PSI20)e BVL30 (.BVL30), estão a perder cerca de três pct. </p>
+<p> - Paula Cordeiro, Lisboa Editorial, 351-1-3150035. </p>
+<p> (c) Reuters Limited 1997. </p></text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="PRZdfeFLBD">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-18"></editdetail></code>
+<code code="TzndNcKQYO">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-18"></editdetail></code>
+<code code="UihUVTleqx">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-18"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="gHVmcKwCdB">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-18"></editdetail></code>
+<code code="DhMkcRMDdz">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1997-08-18"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1997-08-18"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

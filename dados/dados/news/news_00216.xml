@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-09-27" id="root" itemid="49322" xml:lang="pt">
+<title></title>
+<headline> ÍNDICE PSI20 CAI 6,37 PONTOS PARA 4.744,23. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 27 Set (Reuter) - O índice PSI20 caiu 6,37 pontos para 4.744,23. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="FabnhtvWpY">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code>
+<code code="bnAhjlGsCG">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code>
+<code code="NnoMKimtek">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="TXjcbJHiOb">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code>
+<code code="rbYnozfBGi">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-09-27"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-09-27"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-10-22" id="root" itemid="49959" xml:lang="pt">
+<title></title>
+<headline> PORTUGAL ENTRA HORA INVERNO, ATRASA 1 HORA 27 OUT. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> LISBOA, 22 Out (Reuter) - Portugal vai entrar na hora de Inverno, atrasando os relógicos 60 minutos, na madrugada do próximo dia 27. </p>
+<p> Com esta atitude, a hora em Portugal passa a coincidir com o tempo universal coordenado e também com o Tempo Médio de Greenwich (TMG). </p>
+<p> O horário de Verão entra em vigor no último fim-de-semana de Março de 1997. </p>
+<p> - Lisboa Editorial, 351.1.3113121. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="SpVzfiEoWS">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="JOjXtRyUtd">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code>
+<code code="AGeYvXUCPa">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="akTBFSbSLU">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-10-22"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-10-22"></dc>
+<dc element="dc.source" value="Reuters - Notícias em Português"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
