@@ -1,0 +1,66 @@
+!pip install gensim
+!pip install nltk
+!pip install scikit-learn
+!pip install pandas matplotlib seaborn wordcloud
+
+
+import os
+import requests
+import zipfile
+import re
+import nltk
+import numpy as np
+import pandas as pd
+from xml.etree import ElementTree as ET
+from nltk.corpus import stopwords
+from nltk.tokenize import RegexpTokenizer
+from nltk.stem import RSLPStemmer
+from sklearn.model_selection import train_test_split
+from gensim.models import Word2Vec
+import gensim.downloader as api
+from gensim import models
+from gensim.models import KeyedVectors
+from sklearn.metrics import f1_score, roc_auc_score
+import tensorflow as tf
+from tensorflow.keras import layers
+
+nltk.download('stopwords')
+nltk.download('rslp')
+
+url = 'https://www.dropbox.com/scl/fi/pebf6kbg1ramokazvi66t/classificao-de-notcias.zip?rlkey=3t78l0mo6ilpxku5rlbrziaaq&st=7kvdex22&dl=1'
+
+pathFiles = 'dados'
+fileName = 'classificao-de-notcias.zip'
+filePath = os.path.join(pathFiles, fileName)
+extractPath = pathFiles
+
+# Cria a pasta principal "dados" se ela não existir
+if not os.path.isdir(pathFiles):
+    os.mkdir(pathFiles)
+
+# Faz o download do arquivo zip
+response = requests.get(url, stream=True)
+if response.status_code == 200:
+    with open(filePath, 'wb') as f:
+        for chunk in response.iter_content(chunk_size=8192):
+            f.write(chunk)
+    print('Download finalizado.')
+else:
+    print(f'Houve um erro: {response.status_code}')
+
+# Verifica se o arquivo baixado é um arquivo zip válido
+if zipfile.is_zipfile(filePath):
+    with zipfile.ZipFile(filePath, 'r') as zip_ref:
+        zip_ref.extractall(extractPath)
+    print('Arquivo descompactado com sucesso.')
+    # Exclui o arquivo zip após descompactar
+    os.remove(filePath)
+    print('Arquivo zip excluído.')
+else:
+    print('O arquivo baixado não é um arquivo zip válido.')
+
+# Carregar o modelo pré-treinado do Google News
+google_news_vectors = api.load("word2vec-google-news-300")
+
+print('Modelo Google News carregado com sucesso.')
+
